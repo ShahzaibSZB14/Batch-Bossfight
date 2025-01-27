@@ -1,2 +1,2 @@
 # Batch-Bossfight
-A W.I.P Batch Game
+A W.I.P Batch RPG Game.
